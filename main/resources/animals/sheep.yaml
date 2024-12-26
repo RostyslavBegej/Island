@@ -1,0 +1,9 @@
+objectType: Sheep
+weight: 70
+maxCountOnCell: 140
+speed: 3
+maxSatiatingFood: 15
+chanceToReproduce: 15
+maxChild: 3
+targetMatrix:
+  Grass: 100

@@ -1,0 +1,9 @@
+objectType: Deer
+weight: 300
+maxCountOnCell: 20
+speed: 4
+maxSatiatingFood: 50
+chanceToReproduce: 15
+maxChild: 3
+targetMatrix:
+  Grass: 100

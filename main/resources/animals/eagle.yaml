@@ -1,0 +1,12 @@
+objectType: Eagle
+weight: 6
+maxCountOnCell: 20
+speed: 3
+maxSatiatingFood: 1
+chanceToReproduce: 15
+maxChild: 3
+targetMatrix:
+  Fox: 10
+  Rabbit: 90
+  Mouse: 90
+  Duck: 80

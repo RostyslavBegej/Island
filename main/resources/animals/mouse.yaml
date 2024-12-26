@@ -1,0 +1,10 @@
+objectType: Mouse
+weight: 0.05
+maxCountOnCell: 500
+speed: 1
+maxSatiatingFood: 0.01
+chanceToReproduce: 12
+maxChild: 3
+targetMatrix:
+  Caterpillar: 90
+  Grass: 100

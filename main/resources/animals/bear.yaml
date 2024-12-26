@@ -1,0 +1,18 @@
+objectType: Bear
+weight: 500
+maxCountOnCell: 5
+speed: 2
+maxSatiatingFood: 80
+chanceToReproduce: 30
+maxChild: 3
+targetMatrix:
+  Boa: 80
+  Horse: 40
+  Deer: 80
+  Rabbit: 80
+  Mouse: 90
+  Goat: 70
+  Sheep: 70
+  Boar: 50
+  Buffalo: 20
+  Duck: 10

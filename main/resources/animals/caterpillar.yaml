@@ -1,0 +1,9 @@
+objectType: Caterpillar
+weight: 0.01
+maxCountOnCell: 1000
+speed: 0
+maxSatiatingFood: 0
+chanceToReproduce: 20
+maxChild: 1
+targetMatrix:
+  Grass: 100

@@ -1,0 +1,9 @@
+objectType: Horse
+weight: 400
+maxCountOnCell: 20
+speed: 4
+maxSatiatingFood: 60
+chanceToReproduce: 11
+maxChild: 3
+targetMatrix:
+  Grass: 100

@@ -1,0 +1,12 @@
+objectType: Fox
+weight: 8
+maxCountOnCell: 30
+speed: 2
+maxSatiatingFood: 2
+chanceToReproduce: 15
+maxChild: 3
+targetMatrix:
+  Rabbit: 70
+  Mouse: 90
+  Duck: 60
+  Caterpillar: 40

@@ -1,0 +1,9 @@
+objectType: Buffalo
+weight: 700
+maxCountOnCell: 10
+speed: 3
+maxSatiatingFood: 100
+chanceToReproduce: 25
+maxChild: 2
+targetMatrix:
+  Grass: 100

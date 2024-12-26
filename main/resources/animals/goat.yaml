@@ -1,0 +1,9 @@
+objectType: Goat
+weight: 60
+maxCountOnCell: 140
+speed: 3
+maxSatiatingFood: 10
+chanceToReproduce: 7
+maxChild: 4
+targetMatrix:
+  Grass: 100

@@ -1,0 +1,10 @@
+objectType: Duck
+weight: 1
+maxCountOnCell: 200
+speed: 4
+maxSatiatingFood: 0.15
+chanceToReproduce: 15
+maxChild: 5
+targetMatrix:
+  Caterpillar: 90
+  Grass: 100
